@@ -40,10 +40,10 @@ namespace MultiBloxy
         private readonly static string link = $"https://github.com/Zgoly/{name}/";
 
         // Mutex name for Roblox
-        private readonly static string mutexName = "ROBLOX_singletonEvent";
+        private readonly static string mutexName = "TermSrvReadyEvent";
 
         // Custom mutex name for app
-        private readonly static string appMutexName = $"Global\\{name}_singletonEvent";
+        private readonly static string appMutexName = $"Global\\{name}TermSrvReadyEvent";
 
         // Mutex objects
         private static Mutex mutex = null;
@@ -86,7 +86,7 @@ namespace MultiBloxy
                 contextMenu = new ContextMenuStrip();
 
                 // Version
-                ToolStripMenuItem versionMenuItem = new ToolStripMenuItem($"{name} {version}")
+                ToolStripMenuItem versionMenuItem = new ToolStripMenuItem($"{name} {version} - Fork by Liamsawn")
                 {
                     Image = LoadIconFromResource("icon").ToBitmap()
                 };
