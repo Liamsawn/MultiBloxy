@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This is a fork of MultiBloxy to fix it's functionality.
+> This is a fork of MultiBloxy to fix it's functionality. MAY TRIGGER BYFRON USE WITH CAUTION!
 
 > Roblox is actively blocking multi-instance tools - MultiBloxy may not work for you.
 
