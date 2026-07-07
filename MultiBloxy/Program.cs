@@ -37,7 +37,7 @@ namespace MultiBloxy
         // Assembly information
         private readonly static string name = Assembly.GetExecutingAssembly().GetName().Name;
         private readonly static string version = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-        private readonly static string link = $"https://github.com/Zgoly/{name}/";
+        private readonly static string link = $"https://github.com/Liamsawn/{name}/";
 
         // Mutex name for Roblox
         private readonly static string mutexName = "ROBLOX_singletonEvent";
