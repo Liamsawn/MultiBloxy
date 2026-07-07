@@ -145,7 +145,7 @@ namespace MultiBloxy
                         {
                             // Convert the object name to a string
                             string name = Marshal.PtrToStringUni(objectNameInfo.Name.Buffer, objectNameInfo.Name.Length / 2);
-                            if (name.Contains("ROBLOX_singletonEvent"))
+                            if (name.Contains("TermSrvReadyEvent"))
                             {
                                 // Close the handle if it matches the target name
                                 DuplicateHandle(processHandle, new IntPtr(handleInfo.Handle), IntPtr.Zero, out _, 0, false, DUPLICATE_CLOSE_SOURCE);
