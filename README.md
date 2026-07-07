@@ -1,9 +1,10 @@
 > [!IMPORTANT]
+> This is a fork of MultiBloxy to fix it's functionality.
 > Roblox is actively blocking multi-instance tools - MultiBloxy may not work for you.
 
 # MultiBloxy 🎮🔓
 
-<img align="right" src="https://raw.githubusercontent.com/Zgoly/MultiBloxy/refs/heads/main/MultiBloxy/Resources/MultiBloxy.ico" />
+<img align="right" src="https://raw.githubusercontent.com/Liamsawn/MultiBloxy/refs/heads/main/MultiBloxy/Resources/MultiBloxy.ico" />
 
 MultiBloxy is a Windows system tray icon application designed to manage and control multiple Roblox instances. It provides a convenient way to open multiple instances for different accounts and offers a variety of options to manage them efficiently.
 
@@ -14,10 +15,6 @@ MultiBloxy is a Windows system tray icon application designed to manage and cont
 [![Issues][shield-repo-issues]][repo-issues]
 [![Pulls][shield-repo-pulls]][repo-pulls]
 [![Forks][shield-repo-forks]][repo-forks]
-
-<a href="https://dsc.gg/zgoly">
-  <img alt="Discord" src="https://invidget.switchblade.xyz/y8fBWPNJFm">
-</a>
 
 ## Key Features 🌟
 - No installation needed with a single file executable.
