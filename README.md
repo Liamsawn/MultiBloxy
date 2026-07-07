@@ -52,13 +52,6 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 If you want to contribute to localization, you can add new translations or improve existing ones. The localization code is located in the [Localization.cs](https://github.com/Zgoly/MultiBloxy/blob/main/MultiBloxy/Localization.cs) file. Feel free to add new languages or correct any mistakes.
 
-## Join Our Discord Server 💬
-For faster responses to your issues, problems, and other inquiries, join [our Discord server](https://dsc.gg/zgoly):
-
-<a href="https://dsc.gg/zgoly">
-  <img alt="Discord" src="https://invidget.switchblade.xyz/y8fBWPNJFm">
-</a>
-
 ## License 📜
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
