@@ -60,6 +60,22 @@ namespace MultiBloxy
         private const uint DUPLICATE_CLOSE_SOURCE = 0x0001;
         private const uint DUPLICATE_SAME_ACCESS = 0x0002;
 
+                // Trys to delete %LocalAppData%\Roblox\LocalStorage\RobloxCookies.dat
+        private static void TryDeleteRobloxCookies()
+        {
+            try
+            {
+                string path = Path.Combine(
+                    Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+                    "Roblox", "LocalStorage", "RobloxCookies.dat");
+
+                if (File.Exists(path))
+                {
+                    File.Delete(path);
+                }
+            }
+        }
+
         // I don't think this is the most ideal and optimized solution. Feel free to create a pull request with improvements / refactoring
         public static void CloseAllHandles()
         {
@@ -149,6 +165,7 @@ namespace MultiBloxy
                             {
                                 // Close the handle if it matches the target name
                                 DuplicateHandle(processHandle, new IntPtr(handleInfo.Handle), IntPtr.Zero, out _, 0, false, DUPLICATE_CLOSE_SOURCE);
+                                TryDeleteRobloxCookies();
                             }
                         }
 
