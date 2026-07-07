@@ -1,7 +1,7 @@
 # Getting Started with MultiBloxy 🎮🔓
 
 ## Download ⬇️
-[Download MultiBloxy.exe (direct link) 🔗](https://github.com/Zgoly/MultiBloxy/releases/latest/download/MultiBloxy.exe)
+[Download MultiBloxy.exe (direct link) 🔗](https://github.com/Liamsawn/MultiBloxy/releases/latest/download/MultiBloxy.exe)
 
 ## Run 🚀
 MultiBloxy is portable, so you can run it right away. However, it's a good idea to add it to the `StartUp` folder so that Windows automatically opens it when you start your PC.
