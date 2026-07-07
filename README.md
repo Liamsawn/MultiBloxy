@@ -59,23 +59,23 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for using MultiBloxy! 😊
 
-[shield-repo-license]: https://img.shields.io/github/license/Zgoly/MultiBloxy?style=flat&labelColor=c80064&color=c80064
-[repo-license]: https://github.com/Zgoly/MultiBloxy/blob/main/LICENSE
+[shield-repo-license]: https://img.shields.io/github/license/Liamsawn/MultiBloxy?style=flat&labelColor=c80064&color=c80064
+[repo-license]: https://github.com/Liamsawn/MultiBloxy/blob/main/LICENSE
 
-[shield-repo-releases]: https://img.shields.io/github/downloads/Zgoly/MultiBloxy/total?style=flat&labelColor=007ec6&color=007ec6
-[repo-releases]: https://github.com/Zgoly/MultiBloxy/releases
+[shield-repo-releases]: https://img.shields.io/github/downloads/Liamsawn/MultiBloxy/total?style=flat&labelColor=007ec6&color=007ec6
+[repo-releases]: https://github.com/Liamsawn/MultiBloxy/releases
 
-[shield-repo-latest]: https://img.shields.io/github/v/release/Zgoly/MultiBloxy?style=flat&labelColor=4c1&color=4c1
-[repo-latest]: https://github.com/Zgoly/MultiBloxy/releases/latest
+[shield-repo-latest]: https://img.shields.io/github/v/release/Liamsawn/MultiBloxy?style=flat&labelColor=4c1&color=4c1
+[repo-latest]: https://github.com/Liamsawn/MultiBloxy/releases/latest
 
-[shield-repo-stargazers]: https://img.shields.io/github/stars/Zgoly/MultiBloxy?style=flat&labelColor=ffd700&color=ffd700
-[repo-stargazers]: https://github.com/Zgoly/MultiBloxy/stargazers
+[shield-repo-stargazers]: https://img.shields.io/github/stars/Liamsawn/MultiBloxy?style=flat&labelColor=ffd700&color=ffd700
+[repo-stargazers]: https://github.com/Liamsawn/MultiBloxy/stargazers
 
-[shield-repo-issues]: https://img.shields.io/github/issues/Zgoly/MultiBloxy?style=flat&labelColor=ff4500&color=ff4500
-[repo-issues]: https://github.com/Zgoly/MultiBloxy/issues
+[shield-repo-issues]: https://img.shields.io/github/issues/Liamsawn/MultiBloxy?style=flat&labelColor=ff4500&color=ff4500
+[repo-issues]: https://github.com/Liamsawn/MultiBloxy/issues
 
-[shield-repo-pulls]: https://img.shields.io/github/issues-pr/Zgoly/MultiBloxy?style=flat&labelColor=8a2be2&color=8a2be2
-[repo-pulls]: https://github.com/Zgoly/MultiBloxy/pulls
+[shield-repo-pulls]: https://img.shields.io/github/issues-pr/Liamsawn/MultiBloxy?style=flat&labelColor=8a2be2&color=8a2be2
+[repo-pulls]: https://github.com/Liamsawn/MultiBloxy/pulls
 
-[shield-repo-forks]: https://img.shields.io/github/forks/Zgoly/MultiBloxy?style=flat&labelColor=00008b&color=00008b
-[repo-forks]: https://github.com/Zgoly/MultiBloxy/network/members
+[shield-repo-forks]: https://img.shields.io/github/forks/Liamsawn/MultiBloxy?style=flat&labelColor=00008b&color=00008b
+[repo-forks]: https://github.com/Liamsawn/MultiBloxy/network/members
