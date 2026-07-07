@@ -40,10 +40,10 @@ namespace MultiBloxy
         private readonly static string link = $"https://github.com/Zgoly/{name}/";
 
         // Mutex name for Roblox
-        private readonly static string mutexName = "TermSrvReadyEvent";
+        private readonly static string mutexName = "ROBLOX_singletonEvent";
 
         // Custom mutex name for app
-        private readonly static string appMutexName = $"Global\\{name}TermSrvReadyEvent";
+        private readonly static string appMutexName = $"Global\\{name}_singletonEvent";
 
         // Mutex objects
         private static Mutex mutex = null;
