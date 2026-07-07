@@ -1,5 +1,6 @@
 > [!IMPORTANT]
 > This is a fork of MultiBloxy to fix it's functionality. MAY TRIGGER BYFRON USE WITH CAUTION!
+> You'll have to join through the website. I'm unsure if it's just Fishstrap, but recommended to join through Roblox.com
 
 > Roblox is actively blocking multi-instance tools - MultiBloxy may not work for you.
 
